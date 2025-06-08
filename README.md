@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center" style="color: #32cd32;">🌱 About Me</h2>
-<ul align="center" style="list-style: none; padding: 0;">
+<ul align="left" style="list-style: none; padding: 0;">
   <li>🔭 Currently exploring <b>Flutter, Firebase, Android (Kotlin/Java), Python</b>.</li>
   <li>👨‍💻 Check out my projects on <a href="https://www.behance.net/zahoorahmed22"><b>Behance</b></a>.</li>
   <li>💬 Ask me about <b>Flutter & Android App Development</b>.</li>
