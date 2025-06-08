@@ -10,14 +10,17 @@
 ---
 
 <h2 align="center" style="color: #32cd32;">🌱 About Me</h2>
-<ul align="left" style="list-style: none; padding: 0;">
-  <li>🔭 Currently exploring <b>Flutter, Firebase, Android (Kotlin/Java), Python</b>.</li>
-  <li>👨‍💻 Check out my projects on <a href="https://www.behance.net/zahoorahmed22"><b>Behance</b></a>.</li>
-  <li>💬 Ask me about <b>Flutter & Android App Development</b>.</li>
-  <li>📫 Reach me at: <b><a href="mailto:aishaali1543@gmail.com">aishaali1543@gmail.com</a></b></li>
-  <li>📄 View my professional experiences on <a href="https://www.linkedin.com/in/aisha-ali-718058208/"><b>LinkedIn</b></a>.</li>
-  <li>⚡ Fun Fact: <b>I love discovering new music tracks!</b></li>
-</ul>
+<div>
+  <ul style="list-style: none; padding: 0; display: inline-block; text-align: left;">
+    <li>🔭 Currently exploring <b>Flutter, Firebase, Android (Kotlin/Java), Python</b>.</li>
+    <li>👨‍💻 Check out my projects on <a href="https://www.behance.net/zahoorahmed22"><b>Behance</b></a>.</li>
+    <li>💬 Ask me about <b>Flutter & Android App Development</b>.</li>
+    <li>📫 Reach me at: <b><a href="mailto:aishaali1543@gmail.com">aishaali1543@gmail.com</a></b></li>
+    <li>📄 View my professional experiences on <a href="https://www.linkedin.com/in/aisha-ali-718058208/"><b>LinkedIn</b></a>.</li>
+    <li>⚡ Fun Fact: <b>I love discovering new music tracks!</b></li>
+  </ul>
+</div>
+
 
 ---
 
@@ -51,7 +54,4 @@
 
 ---
 
-<h2 align="center" style="color: #4682b4;">🎨 Design Philosophy</h2>
-<p align="center" style="font-style: italic; color: #2e8b57;">
-  "Striving for pixel-perfect design and seamless user experiences, I blend creativity with technology to deliver impactful solutions."
-</p>
+
